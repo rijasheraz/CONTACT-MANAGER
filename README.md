@@ -1,2 +1,2 @@
-# phoneBook
+# CONTACT MANAGER
 DSA Project (Phinebook)
